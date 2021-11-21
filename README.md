@@ -7,5 +7,5 @@ Just download the .pbix file on your computer and use PowerBI deksptop version o
 You need to have office 365 or if you just want to try sign up free and you can use it.
 It is also easily customizable.
 
-In case you are not able to use it feel free to reach out to our team via Devpost or drop and email.
+In case you are not able to use it feel free to reach out to our team via Devpost or drop an email.
 
