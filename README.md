@@ -9,4 +9,4 @@ You need to have office 365 or if you just want to try sign up free and you can 
 
 # In case you are not able to use it feel free to reach out to our team via Devpost or drop an email.
 
-There is also an option to use the QR code which is available in the "Deliverables" folder. 
+There is also an option to use the QR code to scan, but this will only be possible if you have a Microsoft 365 account. 
