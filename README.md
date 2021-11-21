@@ -8,3 +8,5 @@ Just download the .pbix file on your computer and use PowerBI deksptop version o
 You need to have office 365 or if you just want to try sign up free and you can use it.
 
 # In case you are not able to use it feel free to reach out to our team via Devpost or drop an email.
+
+There is also an option to use the QR code which is available in the "Deliverables" folder. 
