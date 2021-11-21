@@ -1,2 +1,2 @@
 # datary-sap-challenge
-HackaTUm 2021 SAP Challenge
+HackaTUM 2021 SAP Challenge
